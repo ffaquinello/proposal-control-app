@@ -1,0 +1,21 @@
+.cabecalho {
+  height: 111px;
+  width: 1440px;
+}
+.rectangle-1 {
+  height: 111px;
+  width: 1440px;
+  background-color: #cdfdf8;
+}
+.text-1 {
+  text-align: left;
+  vertical-align: top;
+  font-size: 64px;
+  font-family: Inter;
+  line-height: auto;
+  color: #130606;
+}
+.img-2 {
+  height: 94px;
+  width: 119px;
+}
